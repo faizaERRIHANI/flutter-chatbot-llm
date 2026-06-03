@@ -273,5 +273,5 @@ dependencies:
 ---
 
 <p align="center">
-  Réalisé avec ❤️ à l'ENSET Mohammedia
+  Réalisé avec Faiza ERRIHANI à l'ENSET Mohammedia
 </p>
